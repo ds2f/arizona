@@ -4,6 +4,8 @@ title: Frequently Asked Questions
 
 # Frequently Asked Questions
 
+_Note_: This site has been superseded by [https://new.library.arizona.edu/ds2f](https://new.library.arizona.edu/ds2f).
+
 ## Who is eligible?
 Graduate students at the University of Arizona who are enrolled full time in both Spring 2020 and Fall 2020 in any college or discipline.
 

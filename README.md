@@ -1,6 +1,9 @@
 # DS<sup>2</sup>F
 
-This is the code repository for the University of Arizona Digital Scholarship & Data Science Fellowship program web page.
+This is the code repository for the pilot implementation of the University of 
+Arizona Digital Scholarship & Data Science Fellowship program web page. It has 
+been superseded by the site at 
+[https://new.library.arizona.edu/ds2f](https://new.library.arizona.edu/ds2f).
 
 
 ### Development notes

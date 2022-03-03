@@ -5,6 +5,8 @@ redirect_from: /cfp
 
 # Call for proposals
 
+_Note_: This site has been superseded by [https://new.library.arizona.edu/ds2f](https://new.library.arizona.edu/ds2f).
+
 ## Summary
 This fellowship program is designed to address three known challenges in contemporary higher education:
 
